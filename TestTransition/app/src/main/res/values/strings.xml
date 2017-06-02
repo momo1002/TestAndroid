@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestTransition</string>
+    <string name="button_main">Main Button</string>
+    <string name="button_sub">Sub Button</string>
+</resources>
